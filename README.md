@@ -1,0 +1,1 @@
+This is my first attempt at a python project that doesn't involve a tutorial. It's a command line weather application ... that shows the weather. Some times it's nice outside, sometimes it's not, and it would be nice to know in probably the lease convenient way available! 

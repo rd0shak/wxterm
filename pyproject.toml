@@ -1,0 +1,7 @@
+[project]
+name = "wxterm"
+version = "0.1.0"
+description = "Some kind of weather terminal command, app, thing."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
