@@ -7,6 +7,8 @@ def main():
     """
     # Test output
     print("72°")
+    print("72°☀️")
+    print("☀️")
 
 
 if __name__ == "__main__":
