@@ -1,3 +1,7 @@
+def query_airport(id):
+    # https://aviationweather.gov/api/data/metar?ids=KJFK&format=json
+    # I need to parse JSON for this, airport queries seems easy enough
+
 def main():
     """ 
     Default output should be simple, the number and degree for temp, some kind
